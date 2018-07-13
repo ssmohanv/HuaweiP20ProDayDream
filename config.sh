@@ -40,9 +40,10 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
-  ui_print "*******************************"
+  ui_print "***********************************"
+  ui_print "  Daydream Enable Huawei P20 Pro   "
+  ui_print "        By smohanv                 "
+  ui_print "***********************************"
 }
 
 ##########################################################################################
